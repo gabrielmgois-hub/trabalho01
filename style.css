@@ -1,14 +1,15 @@
 body{
     text-align: center;
-background:linear-gradient(to right, rgb(27, 27, 134), rgb(41, 116, 212), rgb(27, 84, 240), rgb(20, 20, 224), rgb(51, 51, 112),rgb(58, 131, 119),rgb(24, 24, 139));
+background:linear-gradient(to right, rgb(27, 27, 134), rgb(41, 116, 212), rgb(27, 84, 240), rgb(20, 20, 224), rgb(33, 33, 139),rgb(36, 148, 212),rgb(24, 24, 139));
 color: aliceblue;
 }
 
+.foto_industria img{
+    border-radius: 17px;
+}
 
-
-.foto_robo{
-    border-radius: 15px;
-
+.mapa_robo iframe{
+    border-radius: 17px;
 }
 
 .figura_robo img{
@@ -16,5 +17,9 @@ color: aliceblue;
     width: 320px;
     height: 140px;
 
+}
+
+.video_robo iframe{
+    border-radius: 18px;
 }
     
