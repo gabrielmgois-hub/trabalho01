@@ -4,6 +4,14 @@ background:linear-gradient(to right, rgb(27, 27, 134), rgb(41, 116, 212), rgb(27
 color: aliceblue;
 }
 
+nav a{
+    margin-right: 17px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
 .foto_industria img{
     border-radius: 17px;
 }
